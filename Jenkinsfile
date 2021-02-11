@@ -5,7 +5,7 @@
 pipeline {
    agent any
    stages {
-      stage('who are you') {
+      stage('who are you rey') {
          steps {
             echo 'hello raaaajuuuuuuuu'
          }
