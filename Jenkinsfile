@@ -7,7 +7,7 @@ pipeline {
    stages {
       stage('who are you rey') {
          steps {
-            echo 'hello raaaajuuuuuuuu'
+            cmd 'uptime'
          }
       }
    }
