@@ -7,7 +7,7 @@ pipeline {
    stages {
       stage('who are you rey') {
          steps {
-            cmd 'uptime'
+            echo 'jobless'
          }
       }
    }
